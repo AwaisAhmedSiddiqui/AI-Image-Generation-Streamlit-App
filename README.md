@@ -26,9 +26,6 @@ Hugging Face Hub
 
 
 
-<img width="528" height="459" alt="image" src="https://github.com/user-attachments/assets/b732b803-cec5-4aa4-96fa-0adbfaef8f1d" />
-
-
 
 
 
