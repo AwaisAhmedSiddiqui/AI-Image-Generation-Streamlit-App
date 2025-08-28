@@ -1,4 +1,4 @@
-🖼️ AI Image Generation Streamlit App
+🖼️ AI Image Generation Streamlit Apps
 
 This is a web application built with Streamlit
  that lets you generate images from text prompts using Stable Diffusion.
